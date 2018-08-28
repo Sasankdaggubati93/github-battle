@@ -1,1 +1,4 @@
-This project is a result of <a hreaf ="https://tylermcginnis.com/courses/react-fundamentals">this</a> tutorial
+
+<div>
+  <p> This project is a result of </p>   <a href = "https://tylermcginnis.com/courses/react-fundamentals/"> this </a>
+</div> 
