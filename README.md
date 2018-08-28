@@ -1,4 +1,4 @@
 
 <div>
-  <p> This project is a result of </p>   <a href = "https://tylermcginnis.com/courses/react-fundamentals/"> this </a>
+  <p> This project is a part of React Fundamentals tutorial by <a href=" https://tylermcginnis.com/"> Tyler Ginnis</a></p>   
 </div> 
